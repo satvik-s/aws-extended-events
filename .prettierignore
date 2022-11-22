@@ -1,0 +1,8 @@
+dist/
+node_modules/
+**/*.json
+**/*.yml
+!tsconfig*
+.prettierignore
+.tool-versions
+!package.json
