@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-typescript-boilerplate",
-  "version": "1.0.0",
-  "description": "boilerplate for nodejs and typescript project",
+  "name": "@satvik-s/aws-extended-types",
+  "version": "0.0.0",
+  "description": "Support for transporting AWS events using compression and S3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -17,17 +17,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/satvik-s/nodejs-typescript-boilerplate.git"
+    "url": "git+https://github.com/satvik-s/aws-extended-events.git"
   },
   "keywords": [
     "typescript",
-    "nodejs",
-    "eslint",
-    "prettier"
+    "aws",
+    "s3",
+    "sns",
+    "sqs"
   ],
   "author": "Satvik Shukla",
   "license": "MIT",
-  "homepage": "https://github.com/satvik-s/nodejs-typescript-boilerplate#readme",
+  "homepage": "https://github.com/satvik-s/aws-extended-events",
   "devDependencies": {
     "@types/node": "18.11.9",
     "@typescript-eslint/eslint-plugin": "5.44.0",
