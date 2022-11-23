@@ -29,6 +29,9 @@
   "author": "Satvik Shukla",
   "license": "MIT",
   "homepage": "https://github.com/satvik-s/aws-extended-events",
+  "dependencies": {
+    "@aws-sdk/client-s3": "3.216.0"
+  },
   "devDependencies": {
     "@types/node": "18.11.9",
     "@typescript-eslint/eslint-plugin": "5.44.0",

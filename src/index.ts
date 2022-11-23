@@ -1,1 +1,2 @@
-console.log('hello there');
+export * from './extended-event';
+export * from './types';
